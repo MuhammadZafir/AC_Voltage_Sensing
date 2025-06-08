@@ -20,3 +20,4 @@ This project reads and displays AC voltage using a microcontroller and analog si
 
 ## Author
 Muhammad Zafir
+![image](https://github.com/user-attachments/assets/c0ca6793-53d5-470d-93f1-8f13ca9a8651)
